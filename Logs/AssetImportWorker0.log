@@ -1,0 +1,1771 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 32115 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/sherz/OneDrive/Desktop/Unity Files/BrainApp
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53676
+Successfully changed project path to: C:/Users/sherz/OneDrive/Desktop/Unity Files/BrainApp
+C:/Users/sherz/OneDrive/Desktop/Unity Files/BrainApp
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/sherz/OneDrive/Desktop/Unity Files/BrainApp/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5763
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56728
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002438 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.627 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.294 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 3.244800 ms (FindLiveObjects: 0.290800 ms CreateObjectMapping: 0.053200 ms MarkObjects: 2.774400 ms  DeleteObjects: 0.124800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/RecallImages/4-Sea-Fish-016seahorse.png
+  artifactKey: Guid(b2fec9e8ba173bf4aa6d2b8ed81987df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-016seahorse.png using Guid(b2fec9e8ba173bf4aa6d2b8ed81987df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1761b4809c7c6bc161ed89be2c51f07') in 0.156248 seconds
+  Import took 0.161066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-033dragonfly.png
+  artifactKey: Guid(0988c4cea1158e6409c38a848f494b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-033dragonfly.png using Guid(0988c4cea1158e6409c38a848f494b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d61791c9b28783c5799b7cf37b223e5') in 0.035627 seconds
+  Import took 0.041610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/RecallImages/6-CarTools-External-002brake disc.png
+  artifactKey: Guid(cd511ce4631d28c499db56460996b5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-002brake disc.png using Guid(cd511ce4631d28c499db56460996b5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb600512fced3cb4f921606706345ad5') in 0.030969 seconds
+  Import took 0.036127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/RecallImages/5-Landforms-NaturalEvent-021hurricane.png
+  artifactKey: Guid(b925649bed4a79343876743a3db7c5a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-NaturalEvent-021hurricane.png using Guid(b925649bed4a79343876743a3db7c5a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e830ad28ccffe53c5de1435ef10f4a8f') in 0.028239 seconds
+  Import took 0.032879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/RecallImages/4-Sea-Krill-022starfish.png
+  artifactKey: Guid(6533c8e178e9abe4d9722b7b1af68869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Krill-022starfish.png using Guid(6533c8e178e9abe4d9722b7b1af68869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad28913abd4d48a5e2e27a5e1c16112') in 0.027610 seconds
+  Import took 0.031659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-023beech.png
+  artifactKey: Guid(f0558195b7cbd5c4a9328f98bb12997b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-023beech.png using Guid(f0558195b7cbd5c4a9328f98bb12997b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46fbe6e1cf37508d8ef809a180e9add') in 0.033804 seconds
+  Import took 0.038587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/RecallImages/6-CarTools-External-030bumper car.png
+  artifactKey: Guid(3faacf29a658ee84eb5e26ef7be97909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-030bumper car.png using Guid(3faacf29a658ee84eb5e26ef7be97909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe90961db37f7a1659497125908e798') in 0.030830 seconds
+  Import took 0.035239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-048flea.png
+  artifactKey: Guid(2c364a308e0ed9947a248356e32bd56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-048flea.png using Guid(2c364a308e0ed9947a248356e32bd56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b740c174ed79ad7056a2d71b1ef85ebf') in 0.029047 seconds
+  Import took 0.033317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-008lion.png
+  artifactKey: Guid(3951a1bce08d695409b01cd564ce4bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-008lion.png using Guid(3951a1bce08d695409b01cd564ce4bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca64d2a4a1531bea248244baf882795f') in 0.030439 seconds
+  Import took 0.035038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-ManMade-025spaceship.png
+  artifactKey: Guid(e4c18a81448b2f446bb7ec8fb61ded53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-ManMade-025spaceship.png using Guid(e4c18a81448b2f446bb7ec8fb61ded53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5c7f49c8a3fa042d22305267817246') in 0.030562 seconds
+  Import took 0.035082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-007flower pot.png
+  artifactKey: Guid(371b55c2d3d3d62459af6e5699aba081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-007flower pot.png using Guid(371b55c2d3d3d62459af6e5699aba081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584c93c93e2c2735dd55a3e286b83ace') in 0.025187 seconds
+  Import took 0.029546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/RecallImages/4-Sea-Crustacean-001crab.png
+  artifactKey: Guid(0e589ab0741f0794080f3227bf5ed965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Crustacean-001crab.png using Guid(0e589ab0741f0794080f3227bf5ed965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f743bd2ef565cfa5daff2a73bde45b') in 0.031222 seconds
+  Import took 0.035408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-001bison.png
+  artifactKey: Guid(0437c7be62c8a5c42a5839bf1db5f5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-001bison.png using Guid(0437c7be62c8a5c42a5839bf1db5f5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a90c8582b63eddbf6603f5661d25a9b') in 0.033668 seconds
+  Import took 0.038536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-030beetle.png
+  artifactKey: Guid(2515dd0ba27c3bd46a13279144ebaec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-030beetle.png using Guid(2515dd0ba27c3bd46a13279144ebaec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a39a79ab1a8b3ce6b91a009aae8c6bb') in 0.026610 seconds
+  Import took 0.030927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-002coral.png
+  artifactKey: Guid(1cfb3b6c6943de347b811df01b63f7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-002coral.png using Guid(1cfb3b6c6943de347b811df01b63f7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0f5b91a03ed45c2043d9a3f4aceca1') in 0.026552 seconds
+  Import took 0.031116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000639 seconds.
+  path: Assets/RecallImages/5-Landforms-Forest-008cave.png
+  artifactKey: Guid(5702a904bc0c74d4c8def2f98649dbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Forest-008cave.png using Guid(5702a904bc0c74d4c8def2f98649dbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9829a909deb866cc3a21847d07d762b6') in 0.031318 seconds
+  Import took 0.035502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/RecallImages/4-Sea-Crustacean-011shell.png
+  artifactKey: Guid(5e3a3129a9a12974584ab958a0fc0a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Crustacean-011shell.png using Guid(5e3a3129a9a12974584ab958a0fc0a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca202390412529d3d726ce608d30679') in 0.031434 seconds
+  Import took 0.035326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/RecallImages/4-Land-Forest-020badger.png
+  artifactKey: Guid(2935b592c14f90b43aa1c3ed2eac4295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-020badger.png using Guid(2935b592c14f90b43aa1c3ed2eac4295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b314b03a0809fb6abd98278a475aa4cd') in 0.027807 seconds
+  Import took 0.031729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-018coral.png
+  artifactKey: Guid(3089bee0673daf3448b2f6cf2e22194a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-018coral.png using Guid(3089bee0673daf3448b2f6cf2e22194a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73096c0dd664904cd70ed197ac28c7db') in 0.026677 seconds
+  Import took 0.030448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/RecallImages/6-CarTools-External-011differential.png
+  artifactKey: Guid(0abe3f0187a58754090932d66c32e7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-011differential.png using Guid(0abe3f0187a58754090932d66c32e7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1733ded48f2cf50fc8171742aa533d') in 0.032259 seconds
+  Import took 0.036823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/RecallImages/5-Plants-Trees-009woodland.png
+  artifactKey: Guid(bca3ac30e37fcb54fb2f3468408836e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Trees-009woodland.png using Guid(bca3ac30e37fcb54fb2f3468408836e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89da90cc532cdd62a424b7b6bc480e76') in 0.033090 seconds
+  Import took 0.037698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-035Mining.png
+  artifactKey: Guid(210275ac3ee71ea4a9f4a54807230764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-035Mining.png using Guid(210275ac3ee71ea4a9f4a54807230764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6700fbbabbab335c238afd7f490dece4') in 0.033138 seconds
+  Import took 0.037976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/RecallImages/6-CarTools-External-007car.png
+  artifactKey: Guid(608eaa97c076b484da0e396c69e4143b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-007car.png using Guid(608eaa97c076b484da0e396c69e4143b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416bd96f59817d197b3e0bbaec213b77') in 0.032118 seconds
+  Import took 0.036019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/RecallImages/4-Land-Forest-009beaver.png
+  artifactKey: Guid(bbbcb2bfa87f4a4469ca9fb50262b847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-009beaver.png using Guid(bbbcb2bfa87f4a4469ca9fb50262b847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a99cbe0a6b6cbeafef46f91258e169') in 0.028938 seconds
+  Import took 0.033031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-040beetle.png
+  artifactKey: Guid(b1d1ebc9167d31943a1ab30a74269769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-040beetle.png using Guid(b1d1ebc9167d31943a1ab30a74269769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69441cb6823f8000797e6ec822173265') in 0.029038 seconds
+  Import took 0.033598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-019fish.png
+  artifactKey: Guid(43c6042d2cfa82b479424e00d97f5517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-019fish.png using Guid(43c6042d2cfa82b479424e00d97f5517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a85aea29643f9eb38a2c0bc3137e18') in 0.032253 seconds
+  Import took 0.036622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-023flower pot.png
+  artifactKey: Guid(c209b89f148b72e49ad8faaf69365dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-023flower pot.png using Guid(c209b89f148b72e49ad8faaf69365dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf99eb62fb4468532c46cf97d5a2266') in 0.031677 seconds
+  Import took 0.035900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/RecallImages/5-Landforms-Valleys-001desert.png
+  artifactKey: Guid(4b5c7083fee35f2438d7de04d591dbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Valleys-001desert.png using Guid(4b5c7083fee35f2438d7de04d591dbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198abf17187097bae9a56ecf4ee32e36') in 0.029815 seconds
+  Import took 0.033706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-019buffalo.png
+  artifactKey: Guid(62d5daf85097eb341b9f0b3299955d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-019buffalo.png using Guid(62d5daf85097eb341b9f0b3299955d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c6aab44dffdd580a42f336e29e4ec2') in 0.028976 seconds
+  Import took 0.033116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-001chestnut.png
+  artifactKey: Guid(ee1692f3da2ce3e458ed133669ec62bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-001chestnut.png using Guid(ee1692f3da2ce3e458ed133669ec62bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f0cf97861de0aea0b2b0d14e78ae41') in 0.028071 seconds
+  Import took 0.032247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-002camel.png
+  artifactKey: Guid(07daf3f673c67224b8882c775ff370af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-002camel.png using Guid(07daf3f673c67224b8882c775ff370af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a0deeb0f58513d05aa093d41162dc3') in 0.029317 seconds
+  Import took 0.033789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/RecallImages/4-Sea-Krill-049oyster.png
+  artifactKey: Guid(f4ea26bb59382bc42bcc3076c8207937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Krill-049oyster.png using Guid(f4ea26bb59382bc42bcc3076c8207937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329ae3a78f0f1a3c5aab96143fd223f6') in 0.026184 seconds
+  Import took 0.030950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-032flying fish.png
+  artifactKey: Guid(69336f8d29bc2ed42837f482559ed532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-032flying fish.png using Guid(69336f8d29bc2ed42837f482559ed532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d893905e7dc90ff77eb9d705495581') in 0.026249 seconds
+  Import took 0.029985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-015octopus.png
+  artifactKey: Guid(70aca07f718d6b148bfd3145bc422f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-015octopus.png using Guid(70aca07f718d6b148bfd3145bc422f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95955c3bc752050d59b2e58e7a7152e0') in 0.031946 seconds
+  Import took 0.035690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/RecallImages/4-Land-Forest-023wolf.png
+  artifactKey: Guid(c482962c81f55be42958927035a2dfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-023wolf.png using Guid(c482962c81f55be42958927035a2dfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ade2fd472c79ddf005a0c124f1d3ca') in 0.032867 seconds
+  Import took 0.037328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-037alpaca.png
+  artifactKey: Guid(a981c10bf630c914e94fe7176ae12f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-037alpaca.png using Guid(a981c10bf630c914e94fe7176ae12f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11ce2b79bb913d1be873869fd211a88d') in 0.028901 seconds
+  Import took 0.032507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Stars-049eclipse.png
+  artifactKey: Guid(a2d4cfa62c3b7a548881a4128d54756e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Stars-049eclipse.png using Guid(a2d4cfa62c3b7a548881a4128d54756e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b28f078d21e2580c9984b6b05753c0') in 0.035379 seconds
+  Import took 0.039820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/RecallImages/5-Landforms-NaturalEvent-040Aurora.png
+  artifactKey: Guid(4ab9b1a87f21f554987b2994bb2f3850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-NaturalEvent-040Aurora.png using Guid(4ab9b1a87f21f554987b2994bb2f3850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb73a9be64aed113fc14d50c4602b31') in 0.029599 seconds
+  Import took 0.033709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/RecallImages/4-Sea-Mammals-036seal.png
+  artifactKey: Guid(e86d421129ee09f45bd35f88e97a3096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Mammals-036seal.png using Guid(e86d421129ee09f45bd35f88e97a3096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe39981f5cfedaf0225b53e6dbd3606f') in 0.029122 seconds
+  Import took 0.033032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/RecallImages/5-Landforms-Valleys-036desert.png
+  artifactKey: Guid(898f44f038e3e404fb6a0ecf0a655726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Valleys-036desert.png using Guid(898f44f038e3e404fb6a0ecf0a655726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9db9a2adf0e133e5d9d50b26c27a37b') in 0.031010 seconds
+  Import took 0.035362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Stars-034falling star.png
+  artifactKey: Guid(01fd117929493e34c921fa4621a35df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Stars-034falling star.png using Guid(01fd117929493e34c921fa4621a35df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e323d4d39739f5998f4903e3cae4c3c') in 0.029532 seconds
+  Import took 0.033603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-030beach.png
+  artifactKey: Guid(170fc4b792d590b4186810670228beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-030beach.png using Guid(170fc4b792d590b4186810670228beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f88d394191fe2999909e173fa68e2d0') in 0.032326 seconds
+  Import took 0.036406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-029porcupine.png
+  artifactKey: Guid(9e224ca6f2347ca44a019efc5d3d6b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-029porcupine.png using Guid(9e224ca6f2347ca44a019efc5d3d6b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7142e45041a4325c7bc8a59fc82eccd6') in 0.028397 seconds
+  Import took 0.032828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-011flower pot.png
+  artifactKey: Guid(ed8ae59fbe560754f87afb14ba35ab05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-011flower pot.png using Guid(ed8ae59fbe560754f87afb14ba35ab05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57d43097502257c84a732840edf27d57') in 0.032945 seconds
+  Import took 0.037140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-012panther.png
+  artifactKey: Guid(7e267fc6245d6dc42868ea009bc47fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-012panther.png using Guid(7e267fc6245d6dc42868ea009bc47fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58e499d62dfe82facfce1dd7b79af3e') in 0.029061 seconds
+  Import took 0.033094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-043hills.png
+  artifactKey: Guid(b73161fcd0df40f449fc4080ed23dacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-043hills.png using Guid(b73161fcd0df40f449fc4080ed23dacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a55cd5ab76b452484d355d4153ca56') in 0.038207 seconds
+  Import took 0.044011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-034canyon.png
+  artifactKey: Guid(dda6bbe1e81c81c4fb770f1718fbdd3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-034canyon.png using Guid(dda6bbe1e81c81c4fb770f1718fbdd3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '632d30977d75e62442214442ddcb5244') in 0.046126 seconds
+  Import took 0.052067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-010tiger.png
+  artifactKey: Guid(c1cc60a418e06d44195f8d9a4ab0f4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-010tiger.png using Guid(c1cc60a418e06d44195f8d9a4ab0f4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519c97f48f24697381002d19d42d3c0a') in 0.062731 seconds
+  Import took 0.068723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/RecallImages/4-Sea-Mammals-043animals.png
+  artifactKey: Guid(bc985ee6a3e0b7646bad45ef68d671e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Mammals-043animals.png using Guid(bc985ee6a3e0b7646bad45ef68d671e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02b7427ecf4dd67c548bc6cbb057ddb') in 0.042943 seconds
+  Import took 0.049169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-021meerkat.png
+  artifactKey: Guid(df1c5529994164a42a2cc96c39225a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-021meerkat.png using Guid(df1c5529994164a42a2cc96c39225a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '057d140806a0da43ddb004cbbc1e0a6d') in 0.034607 seconds
+  Import took 0.040319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Planets-001earth.png
+  artifactKey: Guid(caa9e104f2e0b584f8ad2843c35e85f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Planets-001earth.png using Guid(caa9e104f2e0b584f8ad2843c35e85f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd189c1c5f8f185bf9048dbc4076e60e') in 0.040299 seconds
+  Import took 0.046334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Planets-003mars.png
+  artifactKey: Guid(babbdf38f7ff74a4aa61d1303248fbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Planets-003mars.png using Guid(babbdf38f7ff74a4aa61d1303248fbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d05ccf89326dd30c57fef9db8e7455a') in 0.033147 seconds
+  Import took 0.037631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-045rock.png
+  artifactKey: Guid(ac2c2124954094742a2f38642b59cb21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-045rock.png using Guid(ac2c2124954094742a2f38642b59cb21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13453e7a9c1426f9ce83dd9e517baf0') in 0.031184 seconds
+  Import took 0.035684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-011crate.png
+  artifactKey: Guid(f350c785ab088424e8b14a782603a91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-011crate.png using Guid(f350c785ab088424e8b14a782603a91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c496621b21e946e730d885fdae892ad') in 0.028917 seconds
+  Import took 0.032782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-026tree leaf.png
+  artifactKey: Guid(dae9686251e1b3b48bd5f1295d9d1678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-026tree leaf.png using Guid(dae9686251e1b3b48bd5f1295d9d1678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a0b7b579e65fa27f2aa4546533751f') in 0.030061 seconds
+  Import took 0.034481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-021sea snake.png
+  artifactKey: Guid(34c7dabc696e8ea44bff37abaae1bfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-021sea snake.png using Guid(34c7dabc696e8ea44bff37abaae1bfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485f680b6b89e36cad1d61c1c0831e8b') in 0.030033 seconds
+  Import took 0.034378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-038clownfish.png
+  artifactKey: Guid(3760dfb9ab3772e4cbb041934b22f4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-038clownfish.png using Guid(3760dfb9ab3772e4cbb041934b22f4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fbf91e2bf9da694d278ffdf21312b64') in 0.027844 seconds
+  Import took 0.032308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/RecallImages/6-CarTools-External-005chassis.png
+  artifactKey: Guid(24d69758ddd113f48b9b1e1733bf021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-005chassis.png using Guid(24d69758ddd113f48b9b1e1733bf021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61a1caa4e9a66235edb4ca45a677c8f') in 0.031553 seconds
+  Import took 0.035191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-022mountain.png
+  artifactKey: Guid(dcc730d0976bcc04987df11bf262c47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-022mountain.png using Guid(dcc730d0976bcc04987df11bf262c47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8f1f2fbf6215da92833c4cfcad1aca') in 0.032743 seconds
+  Import took 0.036882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-036snake.png
+  artifactKey: Guid(7c1c62dddc9f39e4fa3d950361050b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-036snake.png using Guid(7c1c62dddc9f39e4fa3d950361050b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051423bb918b99528a3a237afa887bf6') in 0.025545 seconds
+  Import took 0.030307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-010volcano.png
+  artifactKey: Guid(3424f6310c3a05e429daf6179fe67207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-010volcano.png using Guid(3424f6310c3a05e429daf6179fe67207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7a67bbba6eb995d29836af7cc454df') in 0.028040 seconds
+  Import took 0.032263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-017storm.png
+  artifactKey: Guid(5ee44d0408d68274bbc4ad68de9d744c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-017storm.png using Guid(5ee44d0408d68274bbc4ad68de9d744c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456e264172a9932c2409b73a7615a915') in 0.030670 seconds
+  Import took 0.035294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-043chrysalid.png
+  artifactKey: Guid(7033cc4bf4438c84b8fa775dfed37b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-043chrysalid.png using Guid(7033cc4bf4438c84b8fa775dfed37b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2148c33166a14db2c412214d219339df') in 0.030479 seconds
+  Import took 0.034829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-ManMade-030landscape.png
+  artifactKey: Guid(4aaec96d1905c1c4dafd805533d17552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-ManMade-030landscape.png using Guid(4aaec96d1905c1c4dafd805533d17552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7ab876214cee83824e70464fcf1684') in 0.026641 seconds
+  Import took 0.030806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-042bug.png
+  artifactKey: Guid(b559af16f1db24840b86070918f82636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-042bug.png using Guid(b559af16f1db24840b86070918f82636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe699dfb3aad24d833d478d4df85895c') in 0.025355 seconds
+  Import took 0.028933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-039lion fish.png
+  artifactKey: Guid(04dad51594466b5469e7d6d8657c4cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-039lion fish.png using Guid(04dad51594466b5469e7d6d8657c4cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ed433baf64ffa362ff499e94f192c3') in 0.026120 seconds
+  Import took 0.029698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-004shark.png
+  artifactKey: Guid(2e49e24f2075068429334dbfc9f597d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-004shark.png using Guid(2e49e24f2075068429334dbfc9f597d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c592f99bd2525de4c235bbb5a8c9267') in 0.026255 seconds
+  Import took 0.030263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/RecallImages/4-Land-Forest-026pig.png
+  artifactKey: Guid(72fee595d47a259459fb9c78b371fb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-026pig.png using Guid(72fee595d47a259459fb9c78b371fb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80b8e9372c7fa84968653fc94ade3a4') in 0.025245 seconds
+  Import took 0.029122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-016waterfall.png
+  artifactKey: Guid(cfc5cb82bcf345d4bb0978e36b38ec13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-016waterfall.png using Guid(cfc5cb82bcf345d4bb0978e36b38ec13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc0275306b2fcf3c0c11b8dee86e01f') in 0.030133 seconds
+  Import took 0.034216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-ManMade-036space junk.png
+  artifactKey: Guid(48df164be93f456488d5a8fee62b6ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-ManMade-036space junk.png using Guid(48df164be93f456488d5a8fee62b6ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd462241a5b2ff1d9d315b90b935aa784') in 0.028150 seconds
+  Import took 0.032560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-041sunfish.png
+  artifactKey: Guid(87b8d9b610011b746a6f35acf0968cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-041sunfish.png using Guid(87b8d9b610011b746a6f35acf0968cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af8e5bebf1b4bc8077e237b491b83d71') in 0.023501 seconds
+  Import took 0.027555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/RecallImages/6-CarTools-External-017bumper car.png
+  artifactKey: Guid(71bc588eac02ee34db18dc78a86a8b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-017bumper car.png using Guid(71bc588eac02ee34db18dc78a86a8b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ea7902696690b6014110b382bc1356') in 0.024673 seconds
+  Import took 0.029035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-014waterfall.png
+  artifactKey: Guid(7ccf1002ec2c48c4daadb15d2534a0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-014waterfall.png using Guid(7ccf1002ec2c48c4daadb15d2534a0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5608e3eaac549560333b657ed11dd1') in 0.027325 seconds
+  Import took 0.031303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-027salmon.png
+  artifactKey: Guid(153d1c2d5c8a843459cd9038e088878a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-027salmon.png using Guid(153d1c2d5c8a843459cd9038e088878a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9515c76dca17dc9be9433341345f6b45') in 0.026959 seconds
+  Import took 0.031114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/RecallImages/6-CarTools-External-022headlight.png
+  artifactKey: Guid(d0c5dc7c40b788d4e90423a3c2454f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-022headlight.png using Guid(d0c5dc7c40b788d4e90423a3c2454f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d262cc7e8274a4a152dd19cf31b3ac3') in 0.027481 seconds
+  Import took 0.031473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/RecallImages/5-Landforms-NaturalEvent-044sun.png
+  artifactKey: Guid(434c4a349d11dc24d970ad53e82d842d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-NaturalEvent-044sun.png using Guid(434c4a349d11dc24d970ad53e82d842d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7a8404836700ce8aee78b62dcc4706') in 0.027046 seconds
+  Import took 0.031619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-029beetle.png
+  artifactKey: Guid(696fd052c28f81e479b85e3245c485b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-029beetle.png using Guid(696fd052c28f81e479b85e3245c485b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd7ccd8f3a72f1d51af65f342d398a1') in 0.030114 seconds
+  Import took 0.034325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-014sunflower.png
+  artifactKey: Guid(4a05808d2d42ad94abc40075cef63bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-014sunflower.png using Guid(4a05808d2d42ad94abc40075cef63bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62784335b7fc1857ea934dc52b012dc6') in 0.027791 seconds
+  Import took 0.031625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-031coral.png
+  artifactKey: Guid(3bd40e5bdc5735f4a8119c9cb1f4e527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-031coral.png using Guid(3bd40e5bdc5735f4a8119c9cb1f4e527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c39e7d5f567e584441ada330521d8f') in 0.025745 seconds
+  Import took 0.029667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/RecallImages/4-Sea-Crustacean-007sea urchin.png
+  artifactKey: Guid(4b5f2eea74d83ce439abe7e302dfae66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Crustacean-007sea urchin.png using Guid(4b5f2eea74d83ce439abe7e302dfae66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3ac6280226a1ec66baf178edf2f40a') in 0.025830 seconds
+  Import took 0.029863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/RecallImages/5-Plants-Trees-004tree.png
+  artifactKey: Guid(c1121cf3a76c0f44f9ea745d108ac032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Trees-004tree.png using Guid(c1121cf3a76c0f44f9ea745d108ac032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82775b5278d30929e0134f7dc3b980b6') in 0.027909 seconds
+  Import took 0.032560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-030flounder.png
+  artifactKey: Guid(cabd01c00102c9f4abc49edead0b527b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-030flounder.png using Guid(cabd01c00102c9f4abc49edead0b527b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e838198799739f8a1073e2134611172') in 0.026085 seconds
+  Import took 0.029780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-017wallaby.png
+  artifactKey: Guid(59a112d3b82ee3d478cbdbf81f73d6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-017wallaby.png using Guid(59a112d3b82ee3d478cbdbf81f73d6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c0587d1531188c181f07b02d88166c') in 0.027834 seconds
+  Import took 0.032078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/RecallImages/4-Sea-Mammals-014whale.png
+  artifactKey: Guid(774ac9ab0b29b9b41a2a213133a59e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Mammals-014whale.png using Guid(774ac9ab0b29b9b41a2a213133a59e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31b7ba31a8c1ea3eaba8a5ba079917d6') in 0.025739 seconds
+  Import took 0.029964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-004lake.png
+  artifactKey: Guid(7040f2483d5d7974ea3fed49bf76f4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-004lake.png using Guid(7040f2483d5d7974ea3fed49bf76f4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd63de4e180cbf819e8509b87e7721d') in 0.027711 seconds
+  Import took 0.031882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-048horse.png
+  artifactKey: Guid(71393524f5119924b9a1267db44978c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-048horse.png using Guid(71393524f5119924b9a1267db44978c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4dd1c5aceed257a53e7bc319ec75c0') in 0.029144 seconds
+  Import took 0.033182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-039island.png
+  artifactKey: Guid(4c0df1452bebcb6428200a3cbeca3647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-039island.png using Guid(4c0df1452bebcb6428200a3cbeca3647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a804577d63c1a8b2f305f5037283f4') in 0.027562 seconds
+  Import took 0.031797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-020fish.png
+  artifactKey: Guid(c27d7872ca76e114bb10258b9b3022ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-020fish.png using Guid(c27d7872ca76e114bb10258b9b3022ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a618882cb7b611eb3a4e3958833c0c68') in 0.030255 seconds
+  Import took 0.034181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-005glacier.png
+  artifactKey: Guid(be7ad44a208d2594a91c91bb844eae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-005glacier.png using Guid(be7ad44a208d2594a91c91bb844eae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c8654ef3436bfb0023b6282d6181d4') in 0.026326 seconds
+  Import took 0.030517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-026fish.png
+  artifactKey: Guid(a172e6c2efa73a842841107caf65158c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-026fish.png using Guid(a172e6c2efa73a842841107caf65158c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e90807e81fab8fbf97a32d99671ba86b') in 0.031370 seconds
+  Import took 0.036478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-050moth.png
+  artifactKey: Guid(3ac59ab30a07b71468ca1b145e2d4713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-050moth.png using Guid(3ac59ab30a07b71468ca1b145e2d4713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534fce5b195cb984433b8d2315855772') in 0.032280 seconds
+  Import took 0.037641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-026worm.png
+  artifactKey: Guid(61a27e692daa65447812253edd089210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-026worm.png using Guid(61a27e692daa65447812253edd089210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a30719cbbc28a5a7ef9a9556d98867') in 0.030243 seconds
+  Import took 0.035304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-048fish.png
+  artifactKey: Guid(3434dfa45fa63c04094281aa5c33423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-048fish.png using Guid(3434dfa45fa63c04094281aa5c33423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c3fe4f9db578763b2626ae38142b66') in 0.030120 seconds
+  Import took 0.034433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/RecallImages/5-Landforms-Valleys-028meadow.png
+  artifactKey: Guid(4178d66f011c05c4db81fae39118f084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Valleys-028meadow.png using Guid(4178d66f011c05c4db81fae39118f084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0945bf843ed51839242274da6140ff') in 0.032551 seconds
+  Import took 0.037370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-019flower pot.png
+  artifactKey: Guid(ef21334cef949f943be888a51c8bf887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-019flower pot.png using Guid(ef21334cef949f943be888a51c8bf887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5abd287993a1921c5ca485f79df6eaf') in 0.036604 seconds
+  Import took 0.042028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/RecallImages/4-Land-Forest-050koala.png
+  artifactKey: Guid(f979cdb2188d9b146b8e15f11ab8aecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-050koala.png using Guid(f979cdb2188d9b146b8e15f11ab8aecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9a00cfb3159ce3c4acdec31404ae25') in 0.038381 seconds
+  Import took 0.043805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-037bug.png
+  artifactKey: Guid(ae09b7eb98dcdf644a130c609df76de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-037bug.png using Guid(ae09b7eb98dcdf644a130c609df76de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f038d067b2a343f467d5f51fd687e2') in 0.031010 seconds
+  Import took 0.035199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-046elephant.png
+  artifactKey: Guid(fce3f3d875bc8e2499307e3a35469698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-046elephant.png using Guid(fce3f3d875bc8e2499307e3a35469698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e0ac18dcef50acf73eb60730d32629a') in 0.029497 seconds
+  Import took 0.034043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-002flower pot.png
+  artifactKey: Guid(0cb26e5e6be2db64d93afa1a35965701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-002flower pot.png using Guid(0cb26e5e6be2db64d93afa1a35965701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99bd22e064d8cc61949b230ad5408454') in 0.029875 seconds
+  Import took 0.034390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/RecallImages/4-Sea-Krill-029mussel.png
+  artifactKey: Guid(8c358d98dc4c220429495084f967cb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Krill-029mussel.png using Guid(8c358d98dc4c220429495084f967cb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce84e61a2782ab018db252666f63228f') in 0.037758 seconds
+  Import took 0.041668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-008walnut.png
+  artifactKey: Guid(3f92371a3d3376241a7f89ba6681b147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-008walnut.png using Guid(3f92371a3d3376241a7f89ba6681b147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789240509be1e904a8df33304c1cf5bf') in 0.029743 seconds
+  Import took 0.034077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/RecallImages/6-CarTools-External-018bumper car.png
+  artifactKey: Guid(496db79dc94d47e4ba7ce5dcee0033c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-018bumper car.png using Guid(496db79dc94d47e4ba7ce5dcee0033c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d59d9ae1c28b033260ec7be7a2dbd0') in 0.032442 seconds
+  Import took 0.036356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/RecallImages/4-Land-Forest-024deer.png
+  artifactKey: Guid(a765f57478995a94e8e0090da279fff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-024deer.png using Guid(a765f57478995a94e8e0090da279fff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7946caf0c3bed3b32a349fd2d951420') in 0.028599 seconds
+  Import took 0.032776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/RecallImages/6-CarTools-External-031light.png
+  artifactKey: Guid(63b380c0d15f1bf458c13e9adedfd7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-031light.png using Guid(63b380c0d15f1bf458c13e9adedfd7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf39bc42c154008bf6e8bac9f0ba4c1') in 0.030795 seconds
+  Import took 0.034739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-039centipede.png
+  artifactKey: Guid(a17f2c158de7ce44cb316158a8c681c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-039centipede.png using Guid(a17f2c158de7ce44cb316158a8c681c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec2a0a5338ccfa20c4f9ab3aa163e465') in 0.029910 seconds
+  Import took 0.033740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-017monstera leaf.png
+  artifactKey: Guid(252712fcd06959d4abea8013cbf271fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-017monstera leaf.png using Guid(252712fcd06959d4abea8013cbf271fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2004a30ef6237d3a00f9ea1ee0da8ee6') in 0.031262 seconds
+  Import took 0.035466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/RecallImages/4-Land-Forest-004lemur.png
+  artifactKey: Guid(2b9162fa5bc1679479d4905b3d3ff0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-004lemur.png using Guid(2b9162fa5bc1679479d4905b3d3ff0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd892c9f3f762e4d8ca2bce358e4a4485') in 0.032686 seconds
+  Import took 0.036899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-ManMade-047astronaut helmet.png
+  artifactKey: Guid(3f3a998fb996cb34ab1dbf866b3b3daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-ManMade-047astronaut helmet.png using Guid(3f3a998fb996cb34ab1dbf866b3b3daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f62b44df43815f02eb9ae88256eb500') in 0.029567 seconds
+  Import took 0.034388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-020ginkgo.png
+  artifactKey: Guid(5b8d6e563b12eac4e8f27f5fabac194f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-020ginkgo.png using Guid(5b8d6e563b12eac4e8f27f5fabac194f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1f87822c74ecf742a2459ebff6ba00') in 0.031947 seconds
+  Import took 0.036501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-024swordfish.png
+  artifactKey: Guid(b0b8c7b9ff95df94ba9452794e116234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-024swordfish.png using Guid(b0b8c7b9ff95df94ba9452794e116234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e33784d0923ad7bca7462924ec4bcc') in 0.030658 seconds
+  Import took 0.034545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/RecallImages/5-Landforms-Valleys-002meadow.png
+  artifactKey: Guid(e0e6004bab4f27e4ca6d7520853b80d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Valleys-002meadow.png using Guid(e0e6004bab4f27e4ca6d7520853b80d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e51a7e211294cfc899ec2ba7c4a6402') in 0.033178 seconds
+  Import took 0.037097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-027bull.png
+  artifactKey: Guid(be087805ead50fb4390f96af6e69ce86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-027bull.png using Guid(be087805ead50fb4390f96af6e69ce86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e4dbdd548089ef8f4edd57fb86e467') in 0.031186 seconds
+  Import took 0.035666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/RecallImages/5-Plants-Trees-024cactus.png
+  artifactKey: Guid(7b1626129ec3d874c813484c35687e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Trees-024cactus.png using Guid(7b1626129ec3d874c813484c35687e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ce844a0a00b1dba2f486c3cc2ff889') in 0.033122 seconds
+  Import took 0.038547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-028anglerfish.png
+  artifactKey: Guid(7011177cd63da2a4dae0bf2b0d6e234a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-028anglerfish.png using Guid(7011177cd63da2a4dae0bf2b0d6e234a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c0f34219bd51568bb6dfc51280f1cea') in 0.035033 seconds
+  Import took 0.040145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-044squid.png
+  artifactKey: Guid(7953c3f558a71174b94d045e8e95472e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-044squid.png using Guid(7953c3f558a71174b94d045e8e95472e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b211d46fd642519dc339f2b30811d723') in 0.033039 seconds
+  Import took 0.036778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-016ivy.png
+  artifactKey: Guid(6300a8b3ce8cd5d4ba6d07a4a58b8525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-016ivy.png using Guid(6300a8b3ce8cd5d4ba6d07a4a58b8525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e683591b7b437c4d3b6c59ad5b531a') in 0.032247 seconds
+  Import took 0.037139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Objects-050black hole.png
+  artifactKey: Guid(97d209fc8c432de429f572afca1c58e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Objects-050black hole.png using Guid(97d209fc8c432de429f572afca1c58e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ffc36786660e76f4d68989106908139') in 0.043868 seconds
+  Import took 0.048763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-015waterfall.png
+  artifactKey: Guid(c2564e7bb319fee4c83e5b5ca6e78c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-015waterfall.png using Guid(c2564e7bb319fee4c83e5b5ca6e78c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b78a1861d184fe7e5a41ce4fb257c2') in 0.044593 seconds
+  Import took 0.049646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/RecallImages/5-Landforms-Valleys-032garden.png
+  artifactKey: Guid(ca0d2612cfcdce14baf709b3bec34618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Valleys-032garden.png using Guid(ca0d2612cfcdce14baf709b3bec34618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '641106c553ee552f2bcf11f6a12e91db') in 0.032426 seconds
+  Import took 0.036952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/RecallImages/5-Plants-Trees-009cactus.png
+  artifactKey: Guid(cf7f9c8e457b398479f60393f0c8d1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Trees-009cactus.png using Guid(cf7f9c8e457b398479f60393f0c8d1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e21429fb75aed9e814e3a49552aa270') in 0.032738 seconds
+  Import took 0.037324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-012flower pot.png
+  artifactKey: Guid(a1eb517697167e94f9aadd1338549858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-012flower pot.png using Guid(a1eb517697167e94f9aadd1338549858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa79b102a6ed490b6b6ab90b1d8e21c') in 0.031063 seconds
+  Import took 0.035901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/RecallImages/4-Sea-Mammals-006dolphin.png
+  artifactKey: Guid(712db166b3357ec49823888125525ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Mammals-006dolphin.png using Guid(712db166b3357ec49823888125525ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae469b79e2992a7e7c79bf542c062d6') in 0.032831 seconds
+  Import took 0.037920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/RecallImages/5-Landforms-Forest-049forest.png
+  artifactKey: Guid(2ff8e4f6091a931498efd8d402d08b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Forest-049forest.png using Guid(2ff8e4f6091a931498efd8d402d08b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff8d9e172cc2c719f75e6191be89479') in 0.029150 seconds
+  Import took 0.034747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/RecallImages/4-Land-Forest-007gorilla.png
+  artifactKey: Guid(c14b29ec0abab2443bf4cbc358a86885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-007gorilla.png using Guid(c14b29ec0abab2443bf4cbc358a86885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd234ccd32b3d40340442409a811b080') in 0.032446 seconds
+  Import took 0.037388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/RecallImages/4-Land-Forest-047bear.png
+  artifactKey: Guid(2fdf9e5d5e7cf4e42ac5f9909b6bc561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-047bear.png using Guid(2fdf9e5d5e7cf4e42ac5f9909b6bc561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd175567c689080c2256fe9d0f94ba1d3') in 0.032924 seconds
+  Import took 0.037146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/RecallImages/4-Sea-Krill-050Shrimp.png
+  artifactKey: Guid(d77e98f13f1e22f468ad2baf2eb51eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Krill-050Shrimp.png using Guid(d77e98f13f1e22f468ad2baf2eb51eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7482d90c6ce56c5d1bf7cf3b1b1b04aa') in 0.030547 seconds
+  Import took 0.036088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-015flower pot.png
+  artifactKey: Guid(9e47fbfb2c7a69541b58a3b2fb7cbc9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-015flower pot.png using Guid(9e47fbfb2c7a69541b58a3b2fb7cbc9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a39c53ec4d0c74eb4e5d722ed109a8') in 0.031018 seconds
+  Import took 0.035352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/RecallImages/6-CarTools-External-004car parts.png
+  artifactKey: Guid(62281a5ab189f3b478e61b9de421adc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-004car parts.png using Guid(62281a5ab189f3b478e61b9de421adc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5866f57427adef18152a9c469b032e') in 0.049198 seconds
+  Import took 0.055058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-044moth.png
+  artifactKey: Guid(562de67bdd202b145ab47713d88cb974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-044moth.png using Guid(562de67bdd202b145ab47713d88cb974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9a78081b38d6b61999539e42c72a41') in 0.035536 seconds
+  Import took 0.041190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/RecallImages/5-Plants-Trees-002christmas_tree.png
+  artifactKey: Guid(dee399f9948fb7841aeae43dce3889d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Trees-002christmas_tree.png using Guid(dee399f9948fb7841aeae43dce3889d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5836d2290734ebe2a5210aa3467d15') in 0.032805 seconds
+  Import took 0.037716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/RecallImages/4-Land-Forest-034guinea pig.png
+  artifactKey: Guid(5dc641fb7ffd465428684a0c89bbbbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-034guinea pig.png using Guid(5dc641fb7ffd465428684a0c89bbbbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54023c2772aa5952b1cffb3c5c51b97b') in 0.031338 seconds
+  Import took 0.035689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Stars-006sun.png
+  artifactKey: Guid(7b17ab5cb5689e84e8f6091c97fb00e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Stars-006sun.png using Guid(7b17ab5cb5689e84e8f6091c97fb00e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277be34fd5ecc9cc3903d3f5d6036983') in 0.030142 seconds
+  Import took 0.034399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Objects-035comet.png
+  artifactKey: Guid(7524f4eb4b712c245bfa3500eaa91d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Objects-035comet.png using Guid(7524f4eb4b712c245bfa3500eaa91d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f8d6f0edba9d9d131c376a3c0d2400') in 0.030527 seconds
+  Import took 0.035126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/RecallImages/5-Plants-Trees-003forest.png
+  artifactKey: Guid(f2e18c9c0aa34374291eb82c3a28cc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Trees-003forest.png using Guid(f2e18c9c0aa34374291eb82c3a28cc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1bc7c10d8415ee92412b44987d6f977') in 0.031172 seconds
+  Import took 0.035322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Objects-005moon.png
+  artifactKey: Guid(dfe4c8784fc1c60409da0f76c72abcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Objects-005moon.png using Guid(dfe4c8784fc1c60409da0f76c72abcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6c69c7d0d5e5508e7075575a622a16') in 0.029805 seconds
+  Import took 0.034370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-031moth.png
+  artifactKey: Guid(fe6b1fd4db8871545907684fb489b959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-031moth.png using Guid(fe6b1fd4db8871545907684fb489b959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ddca44bf8ed4dde4d7b31d464f9433') in 0.031346 seconds
+  Import took 0.035354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/RecallImages/4-Sea-Mammals-020orca.png
+  artifactKey: Guid(57f9e5795dd45104bba0a9bb5f70582d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Mammals-020orca.png using Guid(57f9e5795dd45104bba0a9bb5f70582d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb09a1c8bbfec53c5f843b09cc83702') in 0.031366 seconds
+  Import took 0.036042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/RecallImages/5-Landforms-Forest-013jungle.png
+  artifactKey: Guid(6710c3b3022263d40bacdd56b727909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Forest-013jungle.png using Guid(6710c3b3022263d40bacdd56b727909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49a9a1fc3e51d690b19c040f6867c60') in 0.032401 seconds
+  Import took 0.037228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/RecallImages/5-Landforms-Valleys-042sun.png
+  artifactKey: Guid(1e683eba880724a43afafdae6f497fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Valleys-042sun.png using Guid(1e683eba880724a43afafdae6f497fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39fbf67dddbfd6ada373f3c45fd82350') in 0.029389 seconds
+  Import took 0.033196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-049bedbug.png
+  artifactKey: Guid(dc521c100292bd742bb532157c5f1e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-049bedbug.png using Guid(dc521c100292bd742bb532157c5f1e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc2425163578b611a68721215daca53') in 0.027275 seconds
+  Import took 0.031108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/RecallImages/5-Landforms-NaturalEvent-026earthquake.png
+  artifactKey: Guid(162ecf52d4458b64c83d1e84f9ffb8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-NaturalEvent-026earthquake.png using Guid(162ecf52d4458b64c83d1e84f9ffb8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18681e50b8274e245bbe4596e6ea7947') in 0.026189 seconds
+  Import took 0.030069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-003pine.png
+  artifactKey: Guid(cf9e0bdf59812f44eb45b07092f4b08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-003pine.png using Guid(cf9e0bdf59812f44eb45b07092f4b08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0400966551f3873b76e83c4ed906ca36') in 0.027487 seconds
+  Import took 0.031261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-024elephant ear.png
+  artifactKey: Guid(56c8f67bab9bf1844b87c9b91bf768da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-024elephant ear.png using Guid(56c8f67bab9bf1844b87c9b91bf768da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec85b06f2d5e3fb7813cebc28d6b8f9') in 0.025087 seconds
+  Import took 0.028935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-046jellyfish.png
+  artifactKey: Guid(d5aca6812b4cca749a8f9629411ddfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-046jellyfish.png using Guid(d5aca6812b4cca749a8f9629411ddfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac19bbd62c51afc9613c74a1f60379fc') in 0.025178 seconds
+  Import took 0.029417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Planets-007neptune.png
+  artifactKey: Guid(5ef92a3773bb1bf4b8c8244ca0e3e9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Planets-007neptune.png using Guid(5ef92a3773bb1bf4b8c8244ca0e3e9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48ae9eb83761406240ea0f8847bdbe5') in 0.026051 seconds
+  Import took 0.030014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-009volcano.png
+  artifactKey: Guid(f753672fb5560684a9a59f2eed851a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-009volcano.png using Guid(f753672fb5560684a9a59f2eed851a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13f06c96e2fd3daa86afa21402aebe7') in 0.028443 seconds
+  Import took 0.032851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-045slug.png
+  artifactKey: Guid(21cbfa6163727b341ae38ead7052e324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-045slug.png using Guid(21cbfa6163727b341ae38ead7052e324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb209404acae55a8ac4e1c8201e5d61') in 0.038386 seconds
+  Import took 0.043475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-013boar.png
+  artifactKey: Guid(2818ad4e490d7dd48a1fbff0bdeea12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-013boar.png using Guid(2818ad4e490d7dd48a1fbff0bdeea12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3de2dfea0a34ff7084830e217c114c7') in 0.036245 seconds
+  Import took 0.041937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Planets-009saturn.png
+  artifactKey: Guid(3a449042d02db0f448a78d0c1c7f95c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Planets-009saturn.png using Guid(3a449042d02db0f448a78d0c1c7f95c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d02b4e095dc02ff801bb15e152f018') in 0.029611 seconds
+  Import took 0.034089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-003river.png
+  artifactKey: Guid(96306d5c22770c04c872394f4d77949c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-003river.png using Guid(96306d5c22770c04c872394f4d77949c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46551fb95af6decd9db2e0ce0bb1372') in 0.030846 seconds
+  Import took 0.034697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/RecallImages/4-Land-Forest-005sloth.png
+  artifactKey: Guid(9193888fd66dd5545b79474020487213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-005sloth.png using Guid(9193888fd66dd5545b79474020487213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ad9e1756f7872689115e5de2f71371') in 0.029222 seconds
+  Import took 0.033896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-ManMade-038space station.png
+  artifactKey: Guid(a04fbbec7952ab045b368311cf660104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-ManMade-038space station.png using Guid(a04fbbec7952ab045b368311cf660104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff3c7d34df059524e7c3850a5b66b48d') in 0.028202 seconds
+  Import took 0.032717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/RecallImages/4-Sea-Mammals-005turtle.png
+  artifactKey: Guid(a094f391ea49dac4e85e7f2f56ff4343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Mammals-005turtle.png using Guid(a094f391ea49dac4e85e7f2f56ff4343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e90c46408b97d170d77c018c6f7fa0') in 0.026211 seconds
+  Import took 0.029905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-047coral.png
+  artifactKey: Guid(da6446b395bce5547894fbfc7acfaaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-047coral.png using Guid(da6446b395bce5547894fbfc7acfaaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '631f7dbb9fd347919225131b62c959ec') in 0.026701 seconds
+  Import took 0.030044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-001flower pot.png
+  artifactKey: Guid(8a399be3358a82a4988f0415c44cb4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-001flower pot.png using Guid(8a399be3358a82a4988f0415c44cb4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0590ae711b0dd134374ea9f48d39f9d0') in 0.026843 seconds
+  Import took 0.030316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-006flower pot.png
+  artifactKey: Guid(0b774146422b60c42942196b37d480e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-006flower pot.png using Guid(0b774146422b60c42942196b37d480e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25908a01ca31e01d7375d7c118bc733d') in 0.027102 seconds
+  Import took 0.031295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/RecallImages/4-Land-Forest-044giraffe.png
+  artifactKey: Guid(82a776aa75d25974cba31c63fdeb988e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-044giraffe.png using Guid(82a776aa75d25974cba31c63fdeb988e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850a600a6be0d179f0afd09d2288e870') in 0.027979 seconds
+  Import took 0.033580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002173 seconds.
+  path: Assets/RecallImages/6-CarTools-External-027license plate.png
+  artifactKey: Guid(d616bb1efb0a25c47ac1e2efb4dabc7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-027license plate.png using Guid(d616bb1efb0a25c47ac1e2efb4dabc7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a839e44c90649f3086f5e7374ae99a4') in 0.026859 seconds
+  Import took 0.030418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-003hippo.png
+  artifactKey: Guid(c66c65d4ff8d6e54ba2b95c345572cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-003hippo.png using Guid(c66c65d4ff8d6e54ba2b95c345572cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0984a2906f42bd99abd67e49a49ba9b1') in 0.029228 seconds
+  Import took 0.033371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-ManMade-037sputnik.png
+  artifactKey: Guid(6a7a4cfa52fd4e94f91e3941682e41ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-ManMade-037sputnik.png using Guid(6a7a4cfa52fd4e94f91e3941682e41ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada8f53004a17cea3d3deffc8a4c788f') in 0.028476 seconds
+  Import took 0.032792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/RecallImages/5-Landforms-NaturalEvent-046half moon.png
+  artifactKey: Guid(264189b5ad7eeee4198fd5a8c806531e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-NaturalEvent-046half moon.png using Guid(264189b5ad7eeee4198fd5a8c806531e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4310b8407caa52440d2ef2fc0900df2d') in 0.026478 seconds
+  Import took 0.030688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/RecallImages/4-Sea-Crustacean-012lobster.png
+  artifactKey: Guid(dacd213f08545b8449e62b7ea8f5b1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Crustacean-012lobster.png using Guid(dacd213f08545b8449e62b7ea8f5b1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da1488e7d407703aad0cb76ce3f0d7c4') in 0.026798 seconds
+  Import took 0.030354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/RecallImages/4-Sea-Crustacean-025hermit crab.png
+  artifactKey: Guid(878b96f2eb08b6c47af83d39c76d312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Crustacean-025hermit crab.png using Guid(878b96f2eb08b6c47af83d39c76d312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db82c2de836f958f8c4aa0cb844440f2') in 0.025311 seconds
+  Import took 0.029365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/RecallImages/5-Plants-Trees-010cactus.png
+  artifactKey: Guid(3c9904888e54dab4a93e82901ad78e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Trees-010cactus.png using Guid(3c9904888e54dab4a93e82901ad78e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb7533ea8b1a795729f831e1eb31318') in 0.025734 seconds
+  Import took 0.030182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-035bug.png
+  artifactKey: Guid(a94ddb0d52c15614e8a8f0d52b9ed751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-035bug.png using Guid(a94ddb0d52c15614e8a8f0d52b9ed751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba20ca0bae687629f31af6261fd54afa') in 0.029127 seconds
+  Import took 0.033379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-038ant.png
+  artifactKey: Guid(a1f17bfb2a023c54080b75a57ae37a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-038ant.png using Guid(a1f17bfb2a023c54080b75a57ae37a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe2d27d6a381d2615b8b13916b41f12a') in 0.028128 seconds
+  Import took 0.032159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-023canyon.png
+  artifactKey: Guid(7fb7262b65bc6a54cacd6238576379fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-023canyon.png using Guid(7fb7262b65bc6a54cacd6238576379fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b761199726062137c3613ee81b243eb2') in 0.027695 seconds
+  Import took 0.031383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/RecallImages/4-Land-Forest-011monkey.png
+  artifactKey: Guid(3511d4a3783afa049b2ed4275fb913de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-011monkey.png using Guid(3511d4a3783afa049b2ed4275fb913de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b728a84ee1edc0118c43cf5dcfdbdc6') in 0.033475 seconds
+  Import took 0.038272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-033rhino.png
+  artifactKey: Guid(39b22e1354cffcf46896af7205f77274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-033rhino.png using Guid(39b22e1354cffcf46896af7205f77274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f51c5386865f111c9eec0b574704110') in 0.033603 seconds
+  Import took 0.038318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/RecallImages/5-Landforms-Forest-006forest.png
+  artifactKey: Guid(067c2b077a81ea1429c3b8f50511e248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Forest-006forest.png using Guid(067c2b077a81ea1429c3b8f50511e248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c34c829e55bd1a945e7f0a183243c9b9') in 0.034304 seconds
+  Import took 0.038755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-ManMade-026observatory.png
+  artifactKey: Guid(0093ddd2b52296c44b69179ee28a2c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-ManMade-026observatory.png using Guid(0093ddd2b52296c44b69179ee28a2c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd281bf081f15875b8425d09162b40759') in 0.032266 seconds
+  Import took 0.036386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-021flower pot.png
+  artifactKey: Guid(bcd9b1b12eaf04f42a89fc6aef79a2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-021flower pot.png using Guid(bcd9b1b12eaf04f42a89fc6aef79a2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810f7084d1a8446e782973dd65609e87') in 0.033123 seconds
+  Import took 0.037555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-035bighorn sheep.png
+  artifactKey: Guid(029ebc80534acda43b213547e10f8103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-035bighorn sheep.png using Guid(029ebc80534acda43b213547e10f8103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91cd009b7542a3831a4b2cc7cb2aa43') in 0.030473 seconds
+  Import took 0.034728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/RecallImages/6-CarTools-External-015exhaust.png
+  artifactKey: Guid(1df514c267b7a1e4497be93e1c440bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-015exhaust.png using Guid(1df514c267b7a1e4497be93e1c440bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e01755be6bd0de14a70b5ac8b5966e') in 0.031975 seconds
+  Import took 0.036590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/RecallImages/6-CarTools-External-034rechargeable battery.png
+  artifactKey: Guid(f5c29df7b84f5e449805053d3cdced91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-034rechargeable battery.png using Guid(f5c29df7b84f5e449805053d3cdced91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5064e3e274ddcbfedf404ee8f10fb7e3') in 0.033733 seconds
+  Import took 0.038446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-022elm.png
+  artifactKey: Guid(be67fd2e67befd94190d017bbfbb0da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-022elm.png using Guid(be67fd2e67befd94190d017bbfbb0da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e876192b4e0b8a385a9d272717ea82e') in 0.034195 seconds
+  Import took 0.038456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-049fox.png
+  artifactKey: Guid(d73d0fe7164b7e944a0da1e5f3f66106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-049fox.png using Guid(d73d0fe7164b7e944a0da1e5f3f66106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2033cc31ae8dd79d8c247a36b4686544') in 0.029505 seconds
+  Import took 0.033759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/RecallImages/5-Plants-Flowers-003flower pot.png
+  artifactKey: Guid(5e741a9a9844d7b469bec97311569e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Flowers-003flower pot.png using Guid(5e741a9a9844d7b469bec97311569e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d15faee5afeae6b0c905e4eaac54c64') in 0.030602 seconds
+  Import took 0.035070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-030maple.png
+  artifactKey: Guid(7c161d790bdf37149979684298e3b2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-030maple.png using Guid(7c161d790bdf37149979684298e3b2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6525f10a055809fbdb043ab9bb548096') in 0.032816 seconds
+  Import took 0.037115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/RecallImages/4-Sea-Crustacean-033sea snail.png
+  artifactKey: Guid(7e7f107bb5a419b4c9d596abdee263bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Crustacean-033sea snail.png using Guid(7e7f107bb5a419b4c9d596abdee263bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56397a43f1c59c81de60b6ce2b048cf') in 0.033781 seconds
+  Import took 0.039224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-048hills.png
+  artifactKey: Guid(a7d4fa94981e4a64282eebfb8b7a75ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-048hills.png using Guid(a7d4fa94981e4a64282eebfb8b7a75ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa63281628c14edc5fac2819ed78b5c3') in 0.036621 seconds
+  Import took 0.041490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/RecallImages/4-Sea-Mammals-013manta ray.png
+  artifactKey: Guid(69531040f8061394d94c195ef5601749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Mammals-013manta ray.png using Guid(69531040f8061394d94c195ef5601749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b83dca9f2a87e313cf3ba25843e9da') in 0.037048 seconds
+  Import took 0.042102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-025cypress.png
+  artifactKey: Guid(0c643195e02949646baf078bdcacae66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-025cypress.png using Guid(0c643195e02949646baf078bdcacae66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2ecbea4cbbb0d75ca65e2945e29952') in 0.032989 seconds
+  Import took 0.038846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/RecallImages/5-Extraterrestrial-Objects-044alien.png
+  artifactKey: Guid(50d195a8ddf644547a49e5b3d469df44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Extraterrestrial-Objects-044alien.png using Guid(50d195a8ddf644547a49e5b3d469df44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e6977e744e626bbc259bc7c9273ef54') in 0.031891 seconds
+  Import took 0.036685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/RecallImages/4-Sea-Crustacean-003seashell.png
+  artifactKey: Guid(6510ca428562a314cbd24879fb2f5fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Crustacean-003seashell.png using Guid(6510ca428562a314cbd24879fb2f5fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26901cba657920ae4c46c199dfc94ea') in 0.030519 seconds
+  Import took 0.034544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-017puffer fish.png
+  artifactKey: Guid(18c23a3cc76173046a217bf2a0e6fdd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-017puffer fish.png using Guid(18c23a3cc76173046a217bf2a0e6fdd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5922cd4f2b3ff3828d3901cce1d384') in 0.030866 seconds
+  Import took 0.035836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-047mountains.png
+  artifactKey: Guid(3f38540edb8b91245a115c14ef29d21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-047mountains.png using Guid(3f38540edb8b91245a115c14ef29d21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3843f797e95e8856caee41d9058ad7cd') in 0.027601 seconds
+  Import took 0.031788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-034louse.png
+  artifactKey: Guid(ce0da223571edff4980d64f9f49aba4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-034louse.png using Guid(ce0da223571edff4980d64f9f49aba4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a04d68150837f6dbd6e79bd1cd609dd') in 0.028653 seconds
+  Import took 0.032532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-047tick.png
+  artifactKey: Guid(e76388b18a32c614ab7bf1604c12fc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-047tick.png using Guid(e76388b18a32c614ab7bf1604c12fc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99dc45e81229a8a90f8b80e22163c7f') in 0.032587 seconds
+  Import took 0.036648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/RecallImages/6-CarTools-External-016car door.png
+  artifactKey: Guid(19a4b5e57815f55489785630bcd32524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-016car door.png using Guid(19a4b5e57815f55489785630bcd32524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618453a9f1ebc3f636024148bcb79dff') in 0.030116 seconds
+  Import took 0.035300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/RecallImages/5-Landforms-NaturalEvent-024Aurora.png
+  artifactKey: Guid(c8a13f750ae1cc5408f3518a1e4d2ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-NaturalEvent-024Aurora.png using Guid(c8a13f750ae1cc5408f3518a1e4d2ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8564fd2235a40ce460e629fdf8c6f2a2') in 0.037135 seconds
+  Import took 0.042252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-035sea cucumber.png
+  artifactKey: Guid(cff0b93ead557aa42ab5670339fd5d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-035sea cucumber.png using Guid(cff0b93ead557aa42ab5670339fd5d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cebd4813c4b46e26492166e349c293aa') in 0.033941 seconds
+  Import took 0.039977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/RecallImages/4-Land-Forest-025rabbit.png
+  artifactKey: Guid(bd888678328b8b14194e25f799f1ee52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-025rabbit.png using Guid(bd888678328b8b14194e25f799f1ee52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed9605df47cc3019702d4c4e349c25d') in 0.030851 seconds
+  Import took 0.035169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-037fish eggs.png
+  artifactKey: Guid(76a724ea4dabf9e49bed27aeda8697e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-037fish eggs.png using Guid(76a724ea4dabf9e49bed27aeda8697e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a8fd81119b074d6fcf5efda5ab81f3') in 0.028997 seconds
+  Import took 0.033433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-012oasis.png
+  artifactKey: Guid(193a825bab512664ca22c2c5ba594bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-012oasis.png using Guid(193a825bab512664ca22c2c5ba594bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ff6d7fb44049d07787cdb6905c12bb') in 0.028437 seconds
+  Import took 0.032538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/RecallImages/5-Plants-Leaves-029clover.png
+  artifactKey: Guid(83951bc585903304c98bc558666baa20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Leaves-029clover.png using Guid(83951bc585903304c98bc558666baa20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306a6de4e31bda7f24fb3523e88b396a') in 0.031314 seconds
+  Import took 0.035691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/RecallImages/5-Landforms-Mountains-050hills.png
+  artifactKey: Guid(0451305d68133234d8c3abb2328904a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Mountains-050hills.png using Guid(0451305d68133234d8c3abb2328904a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb927b313cd41ce834a1b59278e5eef') in 0.029249 seconds
+  Import took 0.034111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/RecallImages/4-Birds-Insects-025pond skater.png
+  artifactKey: Guid(5aba33afd7fd1204fbdc95c5e7939820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Birds-Insects-025pond skater.png using Guid(5aba33afd7fd1204fbdc95c5e7939820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3669c4ce34e33814762a5b57035f8c') in 0.030523 seconds
+  Import took 0.034735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/RecallImages/4-Land-Forest-015panda bear.png
+  artifactKey: Guid(1ce44c60e3d584d42ac27902b5757967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Forest-015panda bear.png using Guid(1ce44c60e3d584d42ac27902b5757967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd891ed4b3062e9143968cb7fd448a6') in 0.028649 seconds
+  Import took 0.032262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/RecallImages/5-Landforms-Forest-007cave.png
+  artifactKey: Guid(270027b6305e25e449b0267bf895ef15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-Forest-007cave.png using Guid(270027b6305e25e449b0267bf895ef15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '951370e7b2f2d7ae93a00949076e7c62') in 0.032822 seconds
+  Import took 0.036925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/RecallImages/6-CarTools-External-029bumper car.png
+  artifactKey: Guid(f589c6161df46694399f30b42ddc0bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/6-CarTools-External-029bumper car.png using Guid(f589c6161df46694399f30b42ddc0bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cb2f13f00f34fa124ce22c6feea4f3') in 0.030032 seconds
+  Import took 0.034833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/RecallImages/5-Plants-Trees-001bonsai.png
+  artifactKey: Guid(b4d5d26db2f082349abc84e8f8a54aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Plants-Trees-001bonsai.png using Guid(b4d5d26db2f082349abc84e8f8a54aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '086edd8ab6969d41d07cd9830eb10947') in 0.033478 seconds
+  Import took 0.037638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/RecallImages/4-Land-Savannah-028gazelle.png
+  artifactKey: Guid(0c53e5e5fa141b94ab10d3e37e059a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Land-Savannah-028gazelle.png using Guid(0c53e5e5fa141b94ab10d3e37e059a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b613829ba4e0f6a411920b3919b6ac75') in 0.029806 seconds
+  Import took 0.034649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-023coral.png
+  artifactKey: Guid(34e3e73abf6645a46b02d7a8d4e07a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-023coral.png using Guid(34e3e73abf6645a46b02d7a8d4e07a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be720939ee731128916f4c7ee1ecdc65') in 0.029115 seconds
+  Import took 0.033623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-010fish.png
+  artifactKey: Guid(fd393f0fba222d945a1980fd8408cb64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-010fish.png using Guid(fd393f0fba222d945a1980fd8408cb64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80b157c865c26246f88acd1a21f65e5') in 0.031063 seconds
+  Import took 0.036045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/RecallImages/4-Sea-DeepSea-034nautilus.png
+  artifactKey: Guid(2dac8710b9b700f459ca124eec577649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-DeepSea-034nautilus.png using Guid(2dac8710b9b700f459ca124eec577649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe3640945468ac4b329c1a36cc8db576') in 0.031119 seconds
+  Import took 0.035591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/RecallImages/5-Landforms-NaturalEvent-025fossil.png
+  artifactKey: Guid(93adb0633dda51c4d8f23a0187c8b5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-NaturalEvent-025fossil.png using Guid(93adb0633dda51c4d8f23a0187c8b5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9395f080ce6e89ce9025a0c7767c8e32') in 0.031773 seconds
+  Import took 0.036796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/RecallImages/5-Landforms-BodyOfWater-018rainbow.png
+  artifactKey: Guid(9025ef33f49f3224291982f72c823a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/5-Landforms-BodyOfWater-018rainbow.png using Guid(9025ef33f49f3224291982f72c823a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae19091754a048fab6bea7b80504305') in 0.032546 seconds
+  Import took 0.037388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001126 seconds.
+  path: Assets/RecallImages/4-Sea-Fish-009fish.png
+  artifactKey: Guid(85a374dfad17c03429246bf0996b1a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RecallImages/4-Sea-Fish-009fish.png using Guid(85a374dfad17c03429246bf0996b1a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f6272adfad45449e9a1f413d405eee') in 0.038953 seconds
+  Import took 0.044177 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.1 MB.
+System memory in use after: 53.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2254.
+Total: 2.983300 ms (FindLiveObjects: 0.290200 ms CreateObjectMapping: 0.050700 ms MarkObjects: 2.523200 ms  DeleteObjects: 0.116700 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.3 MB.
+System memory in use after: 53.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2254.
+Total: 4.617500 ms (FindLiveObjects: 0.408700 ms CreateObjectMapping: 0.095200 ms MarkObjects: 3.960700 ms  DeleteObjects: 0.151100 ms)
+
