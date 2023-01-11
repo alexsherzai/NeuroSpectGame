@@ -1,6 +1,6 @@
 # CognitiveAssessmentGame
 
-Clone the entire repository to test the game on your Unity Engine. All my work is in the Assets folder.
+Clone the entire repository to test the game on your Unity Engine. All elements can be found in the Assets folder.
 
 - Fonts contains the fonts I used for the game text 
 - RecallImages contains all the 581 .png images we used for Encoding and Recall 
@@ -15,3 +15,7 @@ Clone the entire repository to test the game on your Unity Engine. All my work i
 - Shapes contains the 12 shapes which the pattern recognition game pulls from
 - Sprites contains the Text Animation files
 - All the .meta files are not of interest for us, just for the Engine's use
+
+#Game Flow Chart
+
+Introductory Scene --> Demographics Input --> Instructions for Encoding --> Encoding --> Instructions for Interference --> Interference Test --> Instructions for Recall --> Recall Test --> Instructions for Visuospatial --> Visuospatial Test --> Display Score
